@@ -4,7 +4,7 @@ Sept, 2024
 Sujan Rathnakumar 100893497 
 
 Use this template as the start
-
+All five equations were cited from google
 *********
 A/V calculator
 
